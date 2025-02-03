@@ -48,12 +48,12 @@ Funcionalidades do Projeto
 • Formatação fixa: Cada número deve ser exibido na matriz em um formato fixo, como caracteres em estilo digital (ex.: segmentos iluminados que formem o número).
 • Alternativamente, é permitido utilizar um estilo criativo, desde que o número seja claramente identificável.
 
-## 💻 Desenvolvedores
+## 💻 Desenvolvedor
  
 <table>
   <tr>
     
-<td align="center"><img style="" src="https://avatars.githubusercontent.com/u/96251377?v=4" width="100px;" alt=""/><br /><sub><b> Moises Amorim </b></sub></a><br />👨‍💻</a></td>
+<td align="center"><img style="" src="https://avatars.githubusercontent.com/u/96251377?v=4" width="100px;" alt=""/><br /><sub><b> Moises Amorim Vieira </b></sub></a><br />👨‍💻</a></td>
 
   </tr>
 </table>
