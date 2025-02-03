@@ -67,7 +67,7 @@ Funcionalidades do Projeto
     
 <figcaption>
 
-**Figura 1** - Demo do Projeto no Wokwi.com - Acessível em: https://
+**Figura 1** - Demo do Projeto no Wokwi.com - Acessível em: https:www.youtube.com/watch?v=dyvIB_O3N00
     </figcaption>
   </figure>
 </div>
